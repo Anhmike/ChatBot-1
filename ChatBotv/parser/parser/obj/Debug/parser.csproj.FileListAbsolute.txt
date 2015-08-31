@@ -1,0 +1,55 @@
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\bin\Debug\parser.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\bin\Debug\parser.exe
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\bin\Debug\parser.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\bin\Debug\Irony.dll
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\bin\Debug\Irony.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\obj\Debug\parser.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\obj\Debug\parser.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\obj\Debug\parser.exe
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\obj\Debug\parser.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\bin\Debug\Properties.Resources.Designer.cs.dll
+c:\users\administrator\documents\visual studio 2012\Projects\parser\parser\obj\Debug\parser.Form1.resources
+F:\ \7th Labs\Khateeb CC\parser\parser\bin\Debug\parser.exe.config
+F:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.exe
+F:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.pdb
+D:\ \7th Labs\Khateeb CC\parser\parser\bin\Debug\parser.exe.config
+D:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.exe
+D:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.pdb
+D:\ \7th Labs\Khateeb CC\parser\parser\bin\Debug\parser.exe
+D:\ \7th Labs\Khateeb CC\parser\parser\bin\Debug\parser.pdb
+D:\ \7th Labs\Khateeb CC\parser\parser\bin\Debug\Irony.pdb
+D:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+D:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.Form1.resources
+D:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.Properties.Resources.resources
+D:\ \7th Labs\Khateeb CC\parser\parser\obj\Debug\parser.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\bin\Debug\parser.exe.config
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\obj\Debug\parser.exe
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\obj\Debug\parser.pdb
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\obj\Debug\parser.Form1.resources
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\obj\Debug\parser.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\obj\Debug\parser.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\bin\Debug\parser.exe
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\bin\Debug\parser.pdb
+C:\Users\Ahmed\Desktop\ChatBot\parser\parser\bin\Debug\Irony.pdb
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\bin\Debug\parser.exe.config
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\obj\Debug\parser.exe
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\obj\Debug\parser.pdb
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\bin\Debug\parser.exe
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\bin\Debug\parser.pdb
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\bin\Debug\Irony.pdb
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\obj\Debug\parser.Form1.resources
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\obj\Debug\parser.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\ChatBotv\parser\parser\obj\Debug\parser.csproj.GenerateResource.Cache
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\bin\Debug\parser.exe.config
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\obj\Debug\parser.exe
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\obj\Debug\parser.pdb
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\bin\Debug\parser.exe
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\bin\Debug\parser.pdb
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\bin\Debug\Irony.pdb
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\obj\Debug\parser.Form1.resources
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\obj\Debug\parser.Properties.Resources.resources
+C:\Users\khate\Desktop\USB Data\ChatBotv\parser\parser\obj\Debug\parser.csproj.GenerateResource.Cache
